@@ -1,0 +1,17 @@
+{
+  "name": "github-workflow-creator",
+  "version": "1.0.0",
+  "description": "An application to automatically create a GitHub repository and commit a workflow file.",
+  "private": true,
+  "scripts": {
+    "start": "ts-node scripts/run.ts"
+  },
+  "dependencies": {
+    "libsodium-wrappers": "^0.7.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

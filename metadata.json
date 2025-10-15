@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Workflow Creator",
+  "description": "An application to automatically create a GitHub repository and commit a workflow file using a Personal Access Token.",
+  "requestFramePermissions": []
+}
